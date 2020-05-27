@@ -1,4 +1,4 @@
-# Analisando o CIA Factbook Data usando o SQL e Pandas
+# Analisando dados do CIA Factbook Data usando o SQL e Pandas
 
 Treino de análise realizada com SQL.
 
